@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CMPM163-Homework1",
+"dataUrl": "Part3.data.unityweb",
+"wasmCodeUrl": "Part3.wasm.code.unityweb",
+"wasmFrameworkUrl": "Part3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
